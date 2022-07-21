@@ -61,7 +61,7 @@ section {
 }
 
 .main h2 {
-    color: white;
+    color: #cde4fa;
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -69,14 +69,14 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4e9eff;
+    color: #3a6cf4;
     font-size: 1.8em;
     font-weight: 600;
 
 }
 
 .main h3 {
-    color: white;
+    color: #cde4fa;
     font-size: 1.6em;
     font-weight: 700;
     letter-spacing: 1px;
