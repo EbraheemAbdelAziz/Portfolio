@@ -219,6 +219,14 @@ section {
     font-weight: 800;
     margin-top: 10px;
 }
+.more-details {
+    text-decoration: none;
+    color: #0a49f6;
+}
+
+.more-details:hover {
+    color: #601cfc;
+}
 
 
 /* end styling  project section */
