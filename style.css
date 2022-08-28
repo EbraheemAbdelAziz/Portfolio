@@ -175,6 +175,7 @@ section {
 
 .projects .content {
     margin-top: 30px;
+    align-items: center;
 }
 
 .project-card {
@@ -218,14 +219,6 @@ section {
     margin-top: 10px;
 }
 
-.more-details {
-    text-decoration: none;
-    color: #0a49f6;
-}
-
-.more-details:hover {
-    color: #601cfc;
-}
 
 /* end styling  project section */
 
