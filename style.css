@@ -131,6 +131,7 @@ section {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .card {
