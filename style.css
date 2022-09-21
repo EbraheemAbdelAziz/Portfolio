@@ -318,7 +318,9 @@ section {
     color: #fff;
     padding: 2em;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .footer-title {
@@ -328,6 +330,9 @@ section {
 
 .footer-title span {
     color: #3a6cf4;
+}
+footer .social-icons {
+    margin-left: 50px;
 }
 
 /* end styling footer  */
