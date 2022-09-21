@@ -39,6 +39,8 @@ nav {
 }
 nav ul{
     display: flex;
+    flex-wrap: wrap;
+    
 }
 nav li {
     list-style: none;
@@ -335,11 +337,10 @@ section {
         padding: 13px 20px;
     }
 
-    .navigation a {
-        padding-left: 10px;
-        font-size: 0.7em;
-        font-weight: 800;
-    }
+.non {
+    display: none;
+}
+
 
     .title {
         font-size: 1.8em;
@@ -370,13 +371,11 @@ section {
 
 @media (max-width:641px) {
     body {
-        font-size: 12px;
+        font-size: 11px;
     }
 
-    .navigation a {
-        padding-left: 10px;
-        font-size: 0.7em;
-        font-weight: 800;
+    .non {
+        display: none;
     }
 
 
@@ -399,11 +398,10 @@ section {
 
     }
 
-    .navigation a {
-        padding-left: 10px;
-        font-size: 0.7em;
-        font-weight: 800;
+    .non {
+        display: none;
     }
+
 
     .main-content h2 {
         font-size: 0.8em;
